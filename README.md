@@ -23,3 +23,7 @@
 - 存储空间为 Ctfile 提供，仅为规避百度网盘审查，所产生的一切广告利润我们永不取用。
 - 企业等盈利性团队使用，请注意合法性。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
+
+*To original software publishers and genuine software suppliers*:
+
+*We are a group of sad Chinese customers of your products, aiming to annoy Makeding Company, not to frustrate the kind developers. Realize the fact and stop authorizing Makeding as your business companion. Once you [inform us](mailto:pamie97978@163.com) with the news we want, we will instantly erase your product crack links, permanently.*
