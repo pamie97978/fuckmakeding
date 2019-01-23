@@ -5,7 +5,7 @@
 
 [FL Studio 20.0.1 英文版](http://t.cn/E5Q054D)
 
-[FL Studio 12.3 汉化版](http://t.cn/E58cRKl)
+[FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
 
 [ZBrush 4R8 P2 多语言版](http://t.cn/E5jJdps)
 
