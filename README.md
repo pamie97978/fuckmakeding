@@ -23,6 +23,11 @@
 - 存储空间为 Ctfile 提供，仅为规避百度网盘审查，所产生的一切广告利润我们永不取用。
 - 企业等盈利性团队使用，请注意合法性。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
+- 扫描二维码，将本页面轻松分享给您的朋友：
+
+![二维码图片未加载](http://i67.tinypic.com/314p8xx.png)
+
+------
 
 *To original software publishers and genuine software suppliers*:
 
