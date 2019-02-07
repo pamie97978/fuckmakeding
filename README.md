@@ -3,15 +3,17 @@
 
 目前我们提供的反山寨版如下
 
-[FL Studio 20.0.1 英文版](http://t.cn/E5Q054D)
+[**FL Studio 20.0.3 汉化版**](http://t.cn/EcVlTGd)
+
+[FL Studio 20.0.3 单独汉化补丁](http://t.cn/EcVjNp4)
 
 [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
 
-[ZBrush 4R8 P2 多语言版](http://t.cn/E5jJdps)
+[**ZBrush 4R8 P2 多语言版**](http://t.cn/E5jJdps)
 
-[Keyshot 8 英文版](http://t.cn/E5j6i8B)
+[**Keyshot 8 英文版**](http://t.cn/E5j6i8B)
 
-[MathType 6.9b 中文版](http://t.cn/E5T6LNP)
+[**MathType 6.9b 中文版**](http://t.cn/E5T6LNP)
 
 ## 解压密码：`fuckmakeding`
 
@@ -23,9 +25,9 @@
 - 存储空间为 Ctfile 提供，仅为规避百度网盘审查，所产生的一切广告利润我们永不取用。
 - 企业等盈利性团队使用，请注意合法性。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
-- 利用二维码，将本页面轻松分享给您的朋友：
+- 将本页面分享给您的朋友：`http://t.cn/E5HieLc`，也可扫描二维码：
 
-![二维码图片未加载](http://i67.tinypic.com/314p8xx.png)
+![二维码未能加载，也可分享网址：http://t.cn/E5HieLc](http://i67.tinypic.com/314p8xx.png)
 
 ------
 
