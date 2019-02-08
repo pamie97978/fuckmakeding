@@ -16,13 +16,15 @@ Pixologic ZBrush
   - [**ZBrush 4R8 P2 多语言版**](http://t.cn/E5jJdps)
   - 正版软件 [真正官网](http://pixologic.com/) 及 [真正商店页面](https://store.pixologic.com/)
 
-KeyShot
+Luxion KeyShot
 
   - [**Keyshot 8 英文版**](http://t.cn/E5j6i8B)
+  - 正版软件 [真正官网](https://www.keyshot.com/) 及 [真正商店页面](https://buy.keyshot.com/)、[中国真正授权代理商（仅企业客户）](http://www.iristechchina.com/)
   
-MathType
+Wiris MathType
 
   - [**MathType 6.9b 中文版**](http://t.cn/E5T6LNP)
+  - 正版软件 [真正官网](http://www.wiris.com/mathtype) 及 [真正商店页面](http://www.wiris.com/en/store)
 
 ## 解压密码：`fuckmakeding`
 
@@ -31,7 +33,7 @@ MathType
 - 资源均采用官方原版制作，保证可用性，且与马克丁贴牌版无任何瓜葛。
 - 解压后获得 exe 自解压包，将从中释放安装包和各种补丁，安全性人格担保，不放心请自行购买山寨版。
 - 遇链接失效，或有新软件需求可 [给我们发邮件](mailto:pamie97978@163.com) 求助，将尽快在能力范围内提供帮助。
-- 存储空间为 Ctfile 提供，仅为规避百度网盘审查，所产生的一切广告利润我们永不取用。
+- 存储空间为 Ctfile 提供，仅为规避百度网盘审查，放弃一切广告利润。
 - 企业等盈利性团队使用，请注意合法性。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
 - 将本页面分享给您的朋友：`http://t.cn/E5HieLc`，也可扫描二维码：
