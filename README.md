@@ -1,7 +1,7 @@
 ## *Project Fuckmakeding*
 # 反思杰马克丁山寨软件项目
 
-目前我们提供的反山寨版如下
+## 以下所有资源 解压密码：`fuckmakeding`
 
 Image-Line FL Studio
 
@@ -25,8 +25,6 @@ Wiris MathType
 
   - [**MathType 6.9b 中文版**](http://t.cn/E5T6LNP)
   - 正版软件 [真正官网](http://www.wiris.com/mathtype) 及 [真正商店页面](http://www.wiris.com/en/store)
-
-## 解压密码：`fuckmakeding`
 
 项目说明：
 
