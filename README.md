@@ -3,17 +3,26 @@
 
 目前我们提供的反山寨版如下
 
-[**FL Studio 20.0.3 英文版**](http://t.cn/EcVlTGd)
+Image-Line FL Studio
 
-> FL Studio 20 现在尚无有效汉化补丁，任何有关 FL 20 汉化的内容均为钓鱼信息，敬请注意。
+> 请注意：**FL Studio 20 现在尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
 
-[FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
+  - [**FL Studio 20.0.3 英文版**](http://t.cn/Ec6RCtm)
+  - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
+  - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php)
 
-[**ZBrush 4R8 P2 多语言版**](http://t.cn/E5jJdps)
+Pixologic ZBrush
 
-[**Keyshot 8 英文版**](http://t.cn/E5j6i8B)
+  - [**ZBrush 4R8 P2 多语言版**](http://t.cn/E5jJdps)
+  - 正版软件 [真正官网](http://pixologic.com/) 及 [真正商店页面](https://store.pixologic.com/)
 
-[**MathType 6.9b 中文版**](http://t.cn/E5T6LNP)
+KeyShot
+
+  - [**Keyshot 8 英文版**](http://t.cn/E5j6i8B)
+  
+MathType
+
+  - [**MathType 6.9b 中文版**](http://t.cn/E5T6LNP)
 
 ## 解压密码：`fuckmakeding`
 
