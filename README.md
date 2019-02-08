@@ -3,9 +3,9 @@
 
 目前我们提供的反山寨版如下
 
-[**FL Studio 20.0.3 汉化版**](http://t.cn/EcVlTGd)
+[**FL Studio 20.0.3 英文版**](http://t.cn/EcVlTGd)
 
-[FL Studio 20.0.3 单独汉化补丁](http://t.cn/EcVjNp4)
+> FL Studio 20 现在尚无有效汉化补丁，任何有关 FL 20 汉化的内容均为钓鱼信息，敬请注意。
 
 [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
 
