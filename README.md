@@ -7,7 +7,7 @@ Image-Line FL Studio
 
 > 请注意：**FL Studio 20 现在尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
 
-  - [**FL Studio 20.1.1 英文版**](http://t.cn/EcSqMO2) 以及 [高速镜像（看下方说明）](http://uploadhive.com/mzjd5w7n99mg.htm)
+  - [**FL Studio 20.1.1 英文版**](http://t.cn/EcSqMO2) 以及 [高速镜像](http://uploadhive.com/mzjd5w7n99mg.htm) （看下方说明）
   - [FL Studio 20.0.3 英文版](http://t.cn/Ec6RCtm)
   - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php)
