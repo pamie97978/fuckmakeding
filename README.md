@@ -7,7 +7,7 @@ Image-Line FL Studio
 
 > 请注意：**FL Studio 20 现在尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
 
-  - [**FL Studio 20.1.1 英文版**](http://t.cn/EcSqMO2)
+  - [**FL Studio 20.1.1 英文版**](http://t.cn/EcSqMO2) [高速镜像](http://uploadhive.com/mzjd5w7n99mg.htm)
   - [FL Studio 20.0.3 英文版](http://t.cn/Ec6RCtm)
   - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php)
@@ -33,6 +33,7 @@ Wiris MathType
 - 解压后获得 exe 自解压包，将从中释放安装包和各种补丁，安全性人格担保，不放心请自行购买山寨版。
 - 遇链接失效，或有新软件需求可 [给我们发邮件](mailto:pamie97978@163.com) 求助，将尽快在能力范围内提供帮助。
 - 存储空间为 Ctfile 提供，仅为规避百度网盘审查，放弃一切广告利润。
+- 高速镜像为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），不产生任何直接或间接的利润。
 - 企业等盈利性团队使用，请注意合法性。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
 - 将本页面分享给您的朋友：`http://t.cn/E5HieLc`，也可扫描二维码：
