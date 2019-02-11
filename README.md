@@ -10,7 +10,7 @@ Image-Line FL Studio
   - [**FL Studio 20.1.1 英文版**](http://t.cn/EcSqMO2) 以及 [高速镜像](http://uploadhive.com/mzjd5w7n99mg.htm) （看下方说明）
   - [FL Studio 20.0.3 英文版](http://t.cn/Ec6RCtm)
   - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
-  - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php)
+  - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php) 官方支持支付宝
 
 Pixologic ZBrush
 
