@@ -1,4 +1,7 @@
 ## *Project Fuckmakeding*
+
+[![Join the chat at https://gitter.im/antimakeding/community](https://badges.gitter.im/antimakeding/community.svg)](https://gitter.im/antimakeding/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # 反思杰马克丁山寨软件项目
 
 ## 以下所有资源 解压密码：`fuckmakeding`
