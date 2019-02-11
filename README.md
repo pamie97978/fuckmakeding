@@ -46,4 +46,4 @@ Wiris MathType
 
 *To original software publishers and genuine suppliers*:
 
-*We are a group of sad Chinese customers of your products, aiming to annoy Makeding Company, not to frustrate the kind developers. Realize the fact and stop authorizing Makeding as your business companion. Once you [inform us](mailto:pamie97978@163.com) with the news we want, we will instantly remove your product crack links, permanently.*
+*We are a group of sad Chinese customers of your products, aiming to annoy Makeding Company, not to frustrate the kind developers. Makeding is actually notorious in China Mainland, re-packaging your products, blocking your customers from visiting your homepage, depriving customers of their rights to access genuine after-sales services. We are protecting your customers from these harms. Realize the fact and stop authorizing Makeding as your business companion. Once you [inform us](mailto:pamie97978@163.com) with the news we want, we will remove your product crack links, permanently.*
