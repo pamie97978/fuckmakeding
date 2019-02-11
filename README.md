@@ -44,6 +44,6 @@ Wiris MathType
 
 #### *Removal Information*
 
-*To original software publishers and genuine software suppliers*:
+*To original software publishers and genuine suppliers*:
 
 *We are a group of sad Chinese customers of your products, aiming to annoy Makeding Company, not to frustrate the kind developers. Realize the fact and stop authorizing Makeding as your business companion. Once you [inform us](mailto:pamie97978@163.com) with the news we want, we will instantly remove your product crack links, permanently.*
