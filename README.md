@@ -1,1 +1,3 @@
-# 新站点地址：[点我达](http://shitmakeding.github.io)
+## 点击进入
+# [反思杰马克丁山寨软件项目](http://shitmakeding.github.io)
+## 的船新版本 :laughing:
